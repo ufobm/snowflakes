@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "snowflakes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
